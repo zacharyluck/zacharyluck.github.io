@@ -102,3 +102,13 @@ Obviously, the 3x+1 problem won't be solved via brute force, the way I'm doing i
 One, the starting number will be odd
 
 Two, the sequence of numbers will all be numbers larger than the starting number.
+
+# Addendum: 8-21-2021
+
+I've put the code I showed off in this page [here](https://github.com/zacharyluck/three-x-plus-one) if you want to go check it out and see how I've gone about things, maybe alter my code if you want to try tackling 3x+1 yourself!
+
+Some ideas I had after the fact:
+
+**Solve the problem backwards;** we're looking for loops, right? So the first and last number will be the same, instead of doing 3x+1 and x/2, try using 2x and (x-1)/3, and stop whenever the number isn't divisible by 3. Thinking about the problem like this also creates even more rules each number needs to have in order to be part of the loop.
+
+**Solve the problem formulaically;** This one is a bit harder since you'd need to be some genius math wizard to figure this out, but surely there must be some form of f(g(f(g(f(x)))))-ish formula where it equals x when f(x) = 3x+1 and g(x) = x/2. But again, that's some super high level math stuff. I may be good at math but I'm not *that* good at math.
