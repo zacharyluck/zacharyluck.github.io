@@ -68,4 +68,4 @@ So, about 1600 bells an hour, if you really focus on collecting presents.
 
 It worked, I learned some C++, and my friends got some enjoyment out of speeding through the winter event in a game they like to play. Overall, I'd say I'm pretty happy with the final results, even if they're not 100% optimized or by the book. I think I could do a few things differently, maybe have some sorting algorithm to set up the names in a tree so that they're checked faster, as well as clean up some code to avoid repeat actions.
 
-Code will be made available on my github soon.
+Source code and download link is [here](https://github.com/zacharyluck/creatures-of-sonaria-unscrambler)
