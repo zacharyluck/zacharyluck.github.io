@@ -1,5 +1,5 @@
 ---
-title: Hacking Roblox: Creatures of Sonaria
+title: Hacking Roblox - Creatures of Sonaria
 subtitle: Or, how I stopped fighting arrays and learned to love the vector.
 ---
 
